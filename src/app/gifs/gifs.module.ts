@@ -10,8 +10,6 @@ import { HomePageComponent } from './pages/home/home-page.component';
 import { SearchBoxComponent } from './components/search-box/seacrh-box.component';
 
 
-
-
 @NgModule({
   declarations: [
     CardComponent,
